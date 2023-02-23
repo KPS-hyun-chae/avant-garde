@@ -2,15 +2,18 @@
   "posts": [
     {
       "id": 1,
-      "title": "post1"
+      "title": "post1",
+      "content": "content of post1"
     },
     {
       "id": 2,
-      "title": "post2"
+      "title": "post2",
+      "content": "content of post2"
     },
     {
       "id": 3,
-      "title": "post3"
+      "title": "post3",
+      "content": "content of post3"
     }
   ]
 }
