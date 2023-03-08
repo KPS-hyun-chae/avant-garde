@@ -30,7 +30,7 @@
         "counter": "I have no apples | I have one apple | I have {count} apples"
       },
       "locale": {
-        "en": "English",
+        "en-US": "English",
         "de": "German",
         "ko": "Korean"
       }
@@ -47,7 +47,7 @@
         "counter": "Ich habe keinen Apfel | Ich habe einen Apfel | Ich habe {count} Äpfel"
       },
       "locale": {
-        "en": "Englisch",
+        "en-US": "Englisch",
         "de": "Deutsch",
         "ko": "koreanisch"
       }
@@ -64,7 +64,7 @@
         "counter": "당신은 사과를 가지고 있지 않습니다. | 당신은 {count}개의 사과를 가지고 있습니다 |  당신은 {count}개의 사과를 가지고 있습니다"
       },
       "locale": {
-        "en": "영어",
+        "en-US": "영어",
         "de": "독일어",
         "ko": "한국어"
       }
