@@ -17,7 +17,7 @@
       "content": "content of post3"
     }
   ],
-  "translations": [
+  "i18n": [
     {
       "en": {
         "homeView": {
