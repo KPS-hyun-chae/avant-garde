@@ -18,7 +18,7 @@
     }
   ],
   "i18n": {
-    "en": {
+    "en-US": {
       "homeView": {
         "welcome": "Welcome to the FE Template",
         "toCounterPage": "Go to Counter page",
