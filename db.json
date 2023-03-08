@@ -16,5 +16,64 @@
       "title": "post3",
       "content": "content of post3"
     }
+  ],
+  "translations": [
+    {
+      "en": {
+        "homeView": {
+          "welcome": "Welcome to the FE Template",
+          "toCounterPage": "Go to Counter page",
+          "toCryptoPage": "Go to Crypto page",
+          "toPostsPage": "Go to Posts page"
+        },
+        "counterView": {
+          "header": "How many apples do you have?",
+          "counter": "I have no apples | I have one apple | I have {count} apples"
+        },
+        "locale": {
+          "en": "English",
+          "de": "German",
+          "ko": "Korean"
+        }
+      }
+    },
+    {
+      "de": {
+        "homeView": {
+          "welcome": "Willkommen bei der FE-Vorlage",
+          "toCounterPage": "Zur Zähler-Seite gehen",
+          "toCryptoPage": "Zur Crypto-Seite gehen",
+          "toPostsPage": "Zur Post-Seite gehen"
+        },
+        "counterView": {
+          "header": "Wie viele Äpfel haben Sie?",
+          "counter": "Ich habe keinen Apfel | Ich habe einen Apfel | Ich habe {count} Äpfel"
+        },
+        "locale": {
+          "en": "Englisch",
+          "de": "Deutsch",
+          "ko": "koreanisch"
+        }
+      }
+    },
+    {
+      "ko": {
+        "homeView": {
+          "welcome": "프론트앤드 템플릿에 오신 것을 환영합니다",
+          "toCounterPage": "카운터 페이지로",
+          "toCryptoPage": "크립토 페이지로",
+          "toPostsPage": "포스트 페이지로"
+        },
+        "counterView": {
+          "header": "당신은 사과 몇 개를 가지고 있으신가요?",
+          "counter": "당신은 사과를 가지고 있지 않습니다. | 당신은 {count}개의 사과를 가지고 있습니다 |  당신은 {count}개의 사과를 가지고 있습니다"
+        },
+        "locale": {
+          "en": "영어",
+          "de": "독일어",
+          "ko": "한국어"
+        }
+      }
+    }
   ]
 }
