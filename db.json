@@ -1,4 +1,14 @@
 {
+  "configuration": {
+    "propertySources": {
+      "name": "webexecution-<ALL>": {
+        "source": {
+            "com.werum.pasx.webui.ebr.systemColor": "220",
+            "com.werum.pasx.webui.ebr.systemQualifier": "Quality Assurance System",
+        }
+      }
+    }
+  },
   "posts": [
     {
       "id": 1,
