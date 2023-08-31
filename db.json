@@ -1,14 +1,4 @@
 {
-  "configuration": {
-    "propertySources": {
-      "name": "webexecution-<ALL>": {
-        "source": {
-            "com.werum.pasx.webui.ebr.systemColor": "220",
-            "com.werum.pasx.webui.ebr.systemQualifier": "Quality Assurance System",
-        }
-      }
-    }
-  },
   "posts": [
     {
       "id": 1,
@@ -77,6 +67,15 @@
         "en-US": "영어",
         "de": "독일어",
         "ko": "한국어"
+      }
+    }
+  },
+  "configuration": {
+    "propertySources": {
+      "name": "webexecution-<ALL>",
+      "source": {
+        "com.werum.pasx.webui.ebr.systemColor": "220",
+        "com.werum.pasx.webui.ebr.systemQualifier": "Quality Assurance System"
       }
     }
   }
